@@ -1,7 +1,8 @@
-# JavaScript Button + JavaScript Microflow Button
+# JavaScript Button + JavaScript Button Label from Attribute +JavaScript Microflow Button
 
-This widget package offers 2 widgets:
+This widget package offers 3 widgets:
  - JavaScript Button
+ - JavaScript Button with Label from attribute
  - JavaScript Microflow Button
 
 ## Contributing
